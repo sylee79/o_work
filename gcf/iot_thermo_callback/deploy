@@ -1,0 +1,1 @@
+ gcloud functions deploy iot_thermo_callback --region=us-central1 --allow-unauthenticated --memory=128MB --runtime=nodejs8 --source=./ --trigger-http --entry-point=callback --ignore-file=deploy

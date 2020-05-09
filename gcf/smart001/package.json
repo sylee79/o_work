@@ -1,0 +1,8 @@
+{
+  "name": "sample-http",
+  "version": "0.0.1",
+  "dependencies": {
+  "mysql": "2.16.0",
+  "tplink-smarthome-api": "^2.0.0"
+  }
+}

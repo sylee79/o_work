@@ -1,0 +1,519 @@
+
+Mbed Bootloader
+
+Mbed Bootloader
+No Update image
+[DBG ] Active firmware up-to-date
+booting...
+▒▒
+▒==========version 2==========
+==========version 2==========
+==========version 2==========
+==========version 2==========
+==========version 2==========
+==========version 2==========
+Application ready
+Connect to network
+Network initialized, connected with IP 192.168.1.180
+
+Start developer flow
+Create resources
+Register Pelion Device Management Client
+
+running
+stringBuffer:#31.51,34.34,0000
+Client registered.
+Account ID: 016f09cc0c26925aab47482d00000000
+Endpoint name: 01711b88ca31000000000001001c05c9
+Device ID: 01711b88ca31000000000001001c05c9
+
+[temperautre 34] low
+running
+stringBuffer:#31.61,33.90,0000
+[temperautre 33] low
+=====post_data_to_pelion 31.610001 33.900002 0=====
+running
+stringBuffer:#31.73,33.65,0000
+[temperautre 33] low
+=====post_data_to_pelion 31.730000 33.650002 0=====
+running
+stringBuffer:#31.73,34.18,0000
+[temperautre 34] low
+running
+stringBuffer:#31.84,34.44,0000
+[temperautre 34] low
+=====post_data_to_pelion 31.840000 34.439999 0=====
+running
+stringBuffer:#31.83,34.18,0000
+[temperautre 34] low
+=====post_data_to_pelion 31.830000 34.180000 0=====
+running
+stringBuffer:#31.71,33.54,0000
+[temperautre 33] low
+running
+stringBuffer:#31.62,35.33,0004
+[temperautre 35] low
+=====post_data_to_pelion 31.620001 35.330002 4=====
+running
+stringBuffer:#31.61,36.01,0014
+[temperautre 36] low
+=====post_data_to_pelion 31.610001 36.009998 14=====
+running
+stringBuffer:#31.50,36.66,0053
+[temperautre 36] =====post_data_to_pelion 31.500000 36.660000 53=====
+running
+stringBuffer:#31.50,36.01,0036
+[temperautre 36] low
+running
+stringBuffer:#31.49,36.44,0023
+[temperautre 36] low
+=====post_data_to_pelion 31.490000 36.439999 23=====
+running
+stringBuffer:#31.50,36.12,0055
+[temperautre 36] =====post_data_to_pelion 31.500000 36.119999 55=====
+running
+stringBuffer:#31.51,36.13,0081
+[temperautre 36] running
+stringBuffer:#31.73,36.29,0143
+[temperautre 36] =====post_data_to_pelion 31.730000 36.290001 143=====
+running
+stringBuffer:#31.73,37.05,0189
+[temperautre 37] high
+=====post_data_to_pelion 31.730000 37.049999 189=====
+running
+=====gate close=====
+=====wait 10 second=====
+stringBuffer:#31.62,37.52,0223
+[temperautre 37] high
+=====post_data_to_pelion 31.620001 37.520000 223=====
+running
+stringBuffer:#31.61,37.14,0209
+[temperautre 37] high
+running
+stringBuffer:#31.84,38.15,0234
+=====gate close=====
+=====wait 10 second=====
+[temperautre 38] high
+=====post_data_to_pelion 31.840000 38.150002 234=====
+running
+stringBuffer:#31.63,37.11,0226
+[temperautre 37] high
+=====post_data_to_pelion 31.629999 37.110001 226=====
+running
+stringBuffer:#31.51,38.48,0262
+[temperautre 38] high
+running
+stringBuffer:#31.61,36.11,0048
+=====gate close=====
+=====wait 10 second=====
+[temperautre 36] low
+=====post_data_to_pelion 31.610001 36.110001 48=====
+running
+stringBuffer:#31.50,36.43,0059
+[temperautre 36] =====post_data_to_pelion 31.500000 36.430000 59=====
+running
+stringBuffer:#31.72,35.73,0024
+[temperautre 35] low
+=====post_data_to_pelion 31.719999 35.730000 24=====
+running
+stringBuffer:#31.84,36.86,0059
+[temperautre 36] running
+stringBuffer:#31.62,35.70,0024
+[temperautre 35] low
+=====post_data_to_pelion 31.620001 35.700001 24=====
+running
+stringBuffer:#31.51,36.35,0067
+[temperautre 36] =====post_data_to_pelion 31.510000 36.349998 67=====
+running
+stringBuffer:#31.62,36.03,0028
+[temperautre 36] low
+=====post_data_to_pelion 31.620001 36.029999 28=====
+running
+stringBuffer:#31.84,37.04,0066
+[temperautre 37] high
+running
+=====gate close=====
+=====wait 10 second=====
+stringBuffer:#31.73,36.19,0030
+[temperautre 36] low
+=====post_data_to_pelion 31.730000 36.189999 30=====
+running
+stringBuffer:#31.51,36.44,0070
+[temperautre 36] =====post_data_to_pelion 31.510000 36.439999 70=====
+running
+stringBuffer:#31.62,36.19,0038
+[temperautre 36] low
+running
+stringBuffer:#31.84,36.95,0061
+[temperautre 36] =====post_data_to_pelion 31.840000 36.950001 61=====
+running
+stringBuffer:#31.74,36.69,0052
+[temperautre 36] =====post_data_to_pelion 31.740000 36.689999 52=====
+running
+stringBuffer:#31.62,36.02,0024
+[temperautre 36] low
+=====post_data_to_pelion 31.620001 36.020000 24=====
+running
+stringBuffer:#31.51,36.60,0062
+[temperautre 36] running
+stringBuffer:#31.74,36.20,0030
+[temperautre 36] low
+=====post_data_to_pelion 31.740000 36.200001 30=====
+running
+stringBuffer:#31.84,36.33,0056
+[temperautre 36] =====post_data_to_pelion 31.840000 36.330002 56=====
+running
+stringBuffer:#31.62,35.61,0013
+[temperautre 35] low
+=====post_data_to_pelion 31.620001 35.610001 13=====
+running
+stringBuffer:#31.52,36.48,0051
+[temperautre 36] running
+stringBuffer:#31.73,36.01,0039
+[temperautre 36] low
+=====post_data_to_pelion 31.730000 36.009998 39=====
+running
+stringBuffer:#31.85,36.62,0060
+[temperautre 36] =====post_data_to_pelion 31.850000 36.619999 60=====
+running
+stringBuffer:#31.73,36.19,0047
+[temperautre 36] low
+running
+stringBuffer:#31.51,33.48,0000
+[temperautre 33] low
+=====post_data_to_pelion 31.510000 33.480000 0=====
+running
+stringBuffer:#31.51,34.12,0000
+[temperautre 34] low
+=====post_data_to_pelion 31.510000 34.119999 0=====
+running
+stringBuffer:#31.50,34.11,0000
+[temperautre 34] low
+=====post_data_to_pelion 31.500000 34.110001 0=====
+running
+stringBuffer:#31.50,34.43,0000
+[temperautre 34] low
+running
+stringBuffer:#31.50,34.22,0000
+[temperautre 34] low
+=====post_data_to_pelion 31.500000 34.220001 0=====
+running
+stringBuffer:#31.51,33.36,0000
+[temperautre 33] low
+=====post_data_to_pelion 31.510000 33.360001 0=====
+running
+stringBuffer:#31.62,33.69,0000
+[temperautre 33] low
+running
+stringBuffer:#31.62,33.47,0000
+[temperautre 33] low
+=====post_data_to_pelion 31.620001 33.470001 0=====
+running
+stringBuffer:#31.61,33.56,0000
+[temperautre 33] low
+=====post_data_to_pelion 31.610001 33.560001 0=====
+running
+stringBuffer:#31.73,33.64,0000
+[temperautre 33] low
+=====post_data_to_pelion 31.730000 33.639999 0=====
+running
+stringBuffer:#31.71,33.96,0000
+[temperautre 33] low
+running
+stringBuffer:#31.82,34.28,0000
+[temperautre 34] low
+=====post_data_to_pelion 31.820000 34.279999 0=====
+running
+stringBuffer:#31.82,34.60,0000
+[temperautre 34] low
+=====post_data_to_pelion 31.820000 34.599998 0=====
+running
+stringBuffer:#31.82,35.65,0027
+[temperautre 35] low
+=====post_data_to_pelion 31.820000 35.650002 27=====
+running
+stringBuffer:#31.83,33.83,0000
+[temperautre 33] low
+running
+stringBuffer:#31.84,35.84,0010
+[temperautre 35] low
+=====post_data_to_pelion 31.840000 35.840000 10=====
+running
+stringBuffer:#31.72,33.44,0000
+[temperautre 33] low
+=====post_data_to_pelion 31.719999 33.439999 0=====
+running
+stringBuffer:#31.82,33.81,0000
+[temperautre 33] low
+=====post_data_to_pelion 31.820000 33.810001 0=====
+running
+stringBuffer:#31.72,33.69,0000
+[temperautre 33] low
+=====post_data_to_pelion 31.719999 33.689999 0=====
+running
+stringBuffer:#31.71,33.18,0000
+[temperautre 33] low
+running
+stringBuffer:#31.71,33.02,0000
+[temperautre 33] low
+=====post_data_to_pelion 31.709999 33.020000 0=====
+running
+stringBuffer:#31.62,32.45,0000
+[temperautre 32] low
+=====post_data_to_pelion 31.620001 32.450001 0=====
+running
+stringBuffer:#31.60,32.37,0000
+[temperautre 32] low
+running
+stringBuffer:#31.61,32.69,0000
+[temperautre 32] low
+=====post_data_to_pelion 31.610001 32.689999 0=====
+running
+stringBuffer:#31.72,32.93,0000
+[temperautre 32] low
+=====post_data_to_pelion 31.719999 32.930000 0=====
+running
+stringBuffer:#31.61,32.26,0000
+[temperautre 32] low
+=====post_data_to_pelion 31.610001 32.259998 0=====
+running
+stringBuffer:#31.61,32.38,0000
+[temperautre 32] low
+running
+stringBuffer:#31.49,33.25,0000
+[temperautre 33] low
+=====post_data_to_pelion 31.490000 33.250000 0=====
+running
+stringBuffer:#31.48,33.83,0000
+[temperautre 33] low
+=====post_data_to_pelion 31.480000 33.830002 0=====
+running
+stringBuffer:#31.50,33.34,0000
+[temperautre 33] low
+running
+stringBuffer:#31.50,33.04,0000
+[temperautre 33] low
+=====post_data_to_pelion 31.500000 33.040001 0=====
+running
+stringBuffer:#31.60,32.61,0000
+[temperautre 32] low
+=====post_data_to_pelion 31.600000 32.610001 0=====
+running
+stringBuffer:#31.61,33.13,0000
+[temperautre 33] low
+=====post_data_to_pelion 31.610001 33.130001 0=====
+running
+stringBuffer:#31.71,33.68,0000
+[temperautre 33] low
+running
+stringBuffer:#31.70,43.46,0153
+[temperautre 43] high
+=====post_data_to_pelion 31.700001 43.459999 153=====
+running
+=====gate close=====
+=====wait 10 second=====
+stringBuffer:#31.58,37.84,0184
+[temperautre 37] high
+=====post_data_to_pelion 31.580000 37.840000 184=====
+running
+stringBuffer:#31.47,34.28,0000
+[temperautre 34] low
+=====post_data_to_pelion 31.469999 34.279999 0=====
+running
+stringBuffer:#31.48,42.02,0019
+[temperautre 42] low
+running
+stringBuffer:#31.69,47.07,0090
+[temperautre 47] high
+=====post_data_to_pelion 31.690001 47.070000 90=====
+running
+=====gate close=====
+=====wait 10 second=====
+stringBuffer:#31.47,48.12,0091
+[temperautre 48] high
+=====post_data_to_pelion 31.469999 48.119999 91=====
+running
+stringBuffer:#31.58,46.76,0083
+[temperautre 46] high
+running
+stringBuffer:#31.69,40.91,0072
+=====gate close=====
+=====wait 10 second=====
+[temperautre 40] high
+=====post_data_to_pelion 31.690001 40.910000 72=====
+running
+stringBuffer:#31.36,41.18,0067
+[temperautre 41] high
+=====post_data_to_pelion 31.360001 41.180000 67=====
+running
+stringBuffer:#31.59,42.75,0055
+[temperautre 42] high
+=====post_data_to_pelion 31.590000 42.750000 55=====
+running
+stringBuffer:#31.57,45.87,0068
+=====gate close=====
+=====wait 10 second=====
+[temperautre 45] high
+running
+stringBuffer:#31.57,46.36,0073
+[temperautre 46] high
+=====post_data_to_pelion 31.570000 46.360001 73=====
+running
+stringBuffer:#31.35,46.51,0064
+[temperautre 46] high
+=====post_data_to_pelion 31.350000 46.509998 64=====
+running
+stringBuffer:#31.58,39.65,0045
+=====gate close=====
+=====wait 10 second=====
+[temperautre 39] low
+running
+stringBuffer:#31.57,39.46,0028
+[temperautre 39] low
+=====post_data_to_pelion 31.570000 39.459999 28=====
+running
+stringBuffer:#31.55,44.78,0073
+[temperautre 44] high
+=====post_data_to_pelion 31.549999 44.779999 73=====
+running
+=====gate close=====
+=====wait 10 second=====
+stringBuffer:#31.45,46.31,0086
+[temperautre 46] high
+=====post_data_to_pelion 31.450001 46.310001 86=====
+running
+stringBuffer:#31.44,36.63,0162
+[temperautre 36] running
+stringBuffer:#31.54,33.02,0000
+=====gate close=====
+=====wait 10 second=====
+[temperautre 33] low
+=====post_data_to_pelion 31.540001 33.020000 0=====
+running
+stringBuffer:#31.55,33.18,0000
+[temperautre 33] low
+=====post_data_to_pelion 31.549999 33.180000 0=====
+running
+stringBuffer:#31.56,32.73,0000
+[temperautre 32] low
+=====post_data_to_pelion 31.559999 32.730000 0=====
+running
+stringBuffer:#31.44,32.93,0000
+[temperautre 32] low
+running
+stringBuffer:#31.34,33.20,0000
+[temperautre 33] low
+=====post_data_to_pelion 31.340000 33.200001 0=====
+running
+stringBuffer:#31.45,32.41,0000
+[temperautre 32] low
+=====post_data_to_pelion 31.450001 32.410000 0=====
+running
+stringBuffer:#31.55,33.27,0000
+[temperautre 33] low
+running
+stringBuffer:#31.56,32.88,0000
+[temperautre 32] low
+=====post_data_to_pelion 31.559999 32.880001 0=====
+running
+stringBuffer:#31.66,33.32,0000
+[temperautre 33] low
+=====post_data_to_pelion 31.660000 33.320000 0=====
+running
+stringBuffer:#31.55,32.81,0000
+[temperautre 32] low
+=====post_data_to_pelion 31.549999 32.810001 0=====
+running
+stringBuffer:#31.35,33.14,0000
+[temperautre 33] low
+running
+stringBuffer:#31.46,32.48,0000
+[temperautre 32] low
+=====post_data_to_pelion 31.459999 32.480000 0=====
+running
+stringBuffer:#31.68,33.39,0000
+[temperautre 33] low
+=====post_data_to_pelion 31.680000 33.389999 0=====
+running
+stringBuffer:#31.68,33.59,0000
+[temperautre 33] low
+running
+stringBuffer:#31.47,32.71,0000
+[temperautre 32] low
+=====post_data_to_pelion 31.469999 32.709999 0=====
+running
+stringBuffer:#31.48,33.00,0000
+[temperautre 33] low
+=====post_data_to_pelion 31.480000 33.000000 0=====
+running
+stringBuffer:#31.68,33.05,0000
+[temperautre 33] low
+=====post_data_to_pelion 31.680000 33.049999 0=====
+running
+stringBuffer:#31.69,33.76,0000
+[temperautre 33] low
+running
+stringBuffer:#31.47,33.27,0000
+[temperautre 33] low
+=====post_data_to_pelion 31.469999 33.270000 0=====
+running
+stringBuffer:#31.70,33.11,0000
+[temperautre 33] low
+=====post_data_to_pelion 31.700001 33.110001 0=====
+running
+stringBuffer:#31.48,32.68,0000
+[temperautre 32] low
+=====post_data_to_pelion 31.480000 32.680000 0=====
+running
+stringBuffer:#31.59,32.33,0000
+[temperautre 32] low
+running
+stringBuffer:#31.59,32.95,0000
+[temperautre 32] low
+=====post_data_to_pelion 31.590000 32.950001 0=====
+running
+stringBuffer:#31.38,33.27,0000
+[temperautre 33] low
+=====post_data_to_pelion 31.379999 33.270000 0=====
+running
+stringBuffer:#31.70,33.87,0000
+[temperautre 33] low
+running
+stringBuffer:#31.59,32.61,0000
+[temperautre 32] low
+=====post_data_to_pelion 31.590000 32.610001 0=====
+running
+stringBuffer:#31.58,33.74,0000
+[temperautre 33] low
+=====post_data_to_pelion 31.580000 33.740002 0=====
+running
+stringBuffer:#31.62,36.97,0143
+[temperautre 36] =====post_data_to_pelion 31.620001 36.970001 143=====
+running
+stringBuffer:#31.70,46.69,0103
+[temperautre 46] high
+running
+=====gate close=====
+=====wait 10 second=====
+stringBuffer:#31.60,47.71,0092
+[temperautre 47] high
+=====post_data_to_pelion 31.600000 47.709999 92=====
+running
+stringBuffer:#31.72,47.84,0097
+[temperautre 47] high
+=====post_data_to_pelion 31.719999 47.840000 97=====
+running
+stringBuffer:#31.49,47.51,0099
+=====gate close=====
+=====wait 10 second=====
+[temperautre 47] high
+running
+stringBuffer:#31.68,47.79,0106
+[temperautre 47] high
+=====post_data_to_pelion 31.680000 47.790001 106=====
+running
+stringBuffer:#31.51,33.39,0000
+[temperautre 33] low
+=====post_data_to_pelion 31.510000 33.389999 0=====
+running
+stringBuffer:#31.71,33.39,0000

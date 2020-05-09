@@ -1,0 +1,1 @@
+ gcloud functions deploy turnstiles --region=asia-northeast1 --allow-unauthenticated --memory=128MB --runtime=nodejs8 --source=./ --trigger-http --entry-point=result --ignore-file=deploy
