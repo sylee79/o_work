@@ -6,7 +6,7 @@
  */
 const mysql = require('mysql');
 var mysqlConfig = {
-        connectionName: process.env.INSTANCE_CONNECTION_NAME || 'dev-guild-255401:asia-southeast1:iot-poc',
+        connectionName: process.env.INSTANCE_CONNECTION_NAME || 'iot-test-278310:asia-southeast1:dev-db',
     host: process.env.INSTANCE_HOST_NAME || '127.0.0.1',
     // connectTimeout: 60000,
     // acquireTimeout: 60000,
@@ -14,7 +14,7 @@ var mysqlConfig = {
     user: process.env.SQL_USER || 'root',
     password: process.env.SQL_PASSWORD || 'tEster123',
     database: process.env.SQL_NAME || 'poc',
-  	socketPath: `/cloudsql/dev-guild-255401:asia-southeast1:iot-poc`
+  	socketPath: `/cloudsql/iot-test-278310:asia-southeast1:dev-db`
 };
 
 const message = `
